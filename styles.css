@@ -1,4 +1,4 @@
-/* Header */
+<style>/* Header */
 .hero {
     background: #1c1d21; /* Updated color */
     color: white;
@@ -808,3 +808,4 @@ td:last-child {
         font-size: 1rem;
     }
 }
+</style>
